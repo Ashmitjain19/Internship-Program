@@ -1,0 +1,16 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+	int roll=201025, age=19, mob=9575676;
+	string s1="Ashmit Jain"; string s2= "Chameli Devi Group of Institutions"; string s3="C:\sers\EARTH\ocuments\appointment_slip gita bhavan.pdf"; string s4="asdjf";
+	
+	cout<<"Name = "<<s1<<endl;
+	cout<<"Age  ="<<age<<endl;
+	cout<<"College = "<<s2<<endl;
+	cout<<"Documents = "<<s3<<endl;
+	cout<<"Mobile Number = "<<mob<<endl;
+	cout<<"GithubLink = "<<s4<<endl;
+}
